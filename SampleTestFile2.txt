@@ -1,1 +1,2 @@
 Hello Dev: Sample text
+This is stashed, changed file2
